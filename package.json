@@ -1,6 +1,6 @@
 {
   "name": "uisight",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "description": "Your AI can already see the screen \u2014 it just can't measure it. Live mobile+desktop sessions, a measurement engine (contrast, touch targets, theme drift) reporting findings as text, and a panel you and your agent share. MCP server for web/responsive UIs.",
   "main": "src/index.js",
   "scripts": {
